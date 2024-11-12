@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: "Sour Gummy", sans-serif;
+}
+
+a {
+  color: hsl(207, 44%, 49%);
+}
+
+a:visited {
+  color: gold;
+}
+
+a:hover,
+a:focus {
+  /* color: hsl(189, 44%, 49%); */
+  opacity: 0.9;
+}
+
+a:active {
+  color: rebeccapurple;
+}
