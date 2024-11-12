@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
+/* 
+Typography is the way that text is arranged and presented
+ */
+
+body {
+  padding: 10%;
+  font-size: 2rem;
+  font-family: "Sour Gummy", sans-serif;
+}
+
+/* input,
+button {
+  font: inherit;
+} */
+
+p {
+  line-height: 1.5;
+}
